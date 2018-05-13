@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/alexandre-dumas/the-black-tulip/p-f-collier-and-son</dc:identifier>
 		<dc:date>2018-05-11T02:13:02Z</dc:date>
-		<meta property="dcterms:modified">2018-05-11T02:13:02Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2018-05-13T21:00:18Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,7 +41,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;After the conviction of two prominent politicians for sedition, Dumas’s story focuses on the trial of an accused collaborator: one Cornelius van Baerle, whose only wish is to grow his tulips in peace. His crowning achievement is set to be the impossible black tulip, a feat worth one hundred thousand guilders from the Horticultural Society of Haarlem, but before he can sprout the bulb he’s imprisoned with only the daughter of the prison warden to give him a glimmer of hope.&lt;/p&gt;
-			&lt;p&gt;Set a few decades after the tulip mania of the 1630, Alexandre Dumas’s novel opens with a historical incident: the mob killing of Johan and Cornelius de Witt, then high up in the government. Dumas successfully balances the romance of the protagonist’s love for both the heroine and his precious tulip, with a quest to prove his innocence and thwart the schemes of his rival tulip-fancier Boxtel. &lt;i&gt;The Black Tulip&lt;/i&gt; was originally published in three volumes in French in 1850; presented here is the 1902 translation by publisher &lt;abbr&gt;P. F.&lt;/abbr&gt; Collier &amp; Son.&lt;/p&gt;
+			&lt;p&gt;Set a few decades after the tulip mania of the 1630, Alexandre Dumas’s novel opens with a historical incident: the mob killing of Johan and Cornelius de Witt, then high up in the government. Dumas successfully balances the romance of the protagonist’s love for both the heroine and his precious tulip, with a quest to prove his innocence and thwart the schemes of his rival tulip-fancier Boxtel. &lt;i&gt;The Black Tulip&lt;/i&gt; was originally published in three volumes in French in 1850; presented here is the 1902 translation by publisher &lt;abbr&gt;P. F.&lt;/abbr&gt; Collier &amp;amp; Son.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
