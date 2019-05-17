@@ -26,23 +26,24 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Black Tulip</dc:title>
 		<meta property="file-as" refines="#title">Black Tulip, The</meta>
 		<dc:subject id="subject-1">Tulip Mania, 1634-1637 -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Witt, Johan de, 1625-1672 -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Netherlands -- History -- 1648-1714 -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/965</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/965</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/965</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2010117202</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An unjustly imprisoned man longs after both his love and his tulips.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;After the conviction of two prominent politicians for sedition, Dumas’s story focuses on the trial of an accused collaborator: one Cornelius van Baerle, whose only wish is to grow his tulips in peace. His crowning achievement is set to be the impossible black tulip, a feat worth one hundred thousand guilders from the Horticultural Society of Haarlem, but before he can sprout the bulb he’s imprisoned with only the daughter of the prison warden to give him a glimmer of hope.&lt;/p&gt;
 			&lt;p&gt;Set a few decades after the tulip mania of the 1630, Alexandre Dumas’s novel opens with a historical incident: the mob killing of Johan and Cornelius de Witt, then high up in the government. Dumas successfully balances the romance of the protagonist’s love for both the heroine and his precious tulip, with a quest to prove his innocence and thwart the schemes of his rival tulip-fancier Boxtel. &lt;i&gt;The Black Tulip&lt;/i&gt; was originally published in three volumes in French in 1850; presented here is the 1902 translation by publisher &lt;abbr&gt;P. F.&lt;/abbr&gt; Collier &amp;amp; Son.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/965</dc:source>
 		<dc:source>https://archive.org/details/worksofdumas24dumaiala</dc:source>
