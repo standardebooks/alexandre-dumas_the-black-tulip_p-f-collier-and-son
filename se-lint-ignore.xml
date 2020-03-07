@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-25.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>"Van" should only be lowercased when in the context of a full name, like "Cornelius van Baerle".</reason>
+		</ignore>
+	</file>
+	<file path="chapter-29.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>"Van" should only be lowercased when in the context of a full name, like "Cornelius van Baerle".</reason>
+		</ignore>
+	</file>
+	<file path="chapter-30.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>"Van" should only be lowercased when in the context of a full name, like "Cornelius van Baerle".</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
