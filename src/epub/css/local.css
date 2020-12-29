@@ -24,7 +24,7 @@ footer{
 }
 
 [epub|type~="z3998:song"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
