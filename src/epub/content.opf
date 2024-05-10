@@ -47,7 +47,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/965</dc:source>
 		<dc:source>https://archive.org/details/worksofdumas24dumaiala</dc:source>
 		<meta property="se:word-count">73733</meta>
-		<meta property="se:reading-ease.flesch">67.38</meta>
+		<meta property="se:reading-ease.flesch">67.59</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Black_Tulip</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/alexandre-dumas_the-black-tulip_p-f-collier-and-son</meta>
 		<dc:creator id="author">Alexandre Dumas</dc:creator>
