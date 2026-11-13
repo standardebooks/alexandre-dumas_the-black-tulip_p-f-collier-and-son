@@ -62,7 +62,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">P. F. Collier and Son</dc:contributor>
 		<meta property="file-as" refines="#translator">P. F. Collier and Son</meta>
-		<link href="https://en.wikipedia.org/wiki/Peter_F._Collier" refines="#translator" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Peter_Fenelon_Collier" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80079870.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Hans Bollongier</dc:contributor>
